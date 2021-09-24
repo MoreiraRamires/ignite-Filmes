@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/rafaeldcmartins/">
-    <img alt="Solved by Rafael Martins" src="https://img.shields.io/badge/solved%20by-Rafael%20Martins-%2306b656?style=flat-square">
+    <img alt="Solved by Rafael Ramires" src="https://img.shields.io/badge/solved%20by-Rafael%20Martins-%2306b656?style=flat-square">
   </a>
 </p>
 
