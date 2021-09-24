@@ -9,8 +9,8 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
   </a>
   
-  <a href="https://www.linkedin.com/in/rafaeldcmartins/">
-    <img alt="Solved by Rafael Ramires" src="https://img.shields.io/badge/solved%20by-Rafael%20Martins-%2306b656?style=flat-square">
+  <a href="https://www.linkedin.com/in/rafael-ramires-791aa378/">
+    <img alt="Solved by Rafael Ramires" src="https://img.shields.io/badge/solved%20by-Rafael%20Ramires-%2306b656?style=flat-square">
   </a>
 </p>
 
